@@ -1,18 +1,11 @@
-package com.github.carlos.CarlosDevSys.citiesapi.distances.services;
-
-import static java.lang.Math.atan2;
-import static java.lang.Math.cos;
-import static java.lang.Math.sin;
-import static java.lang.Math.sqrt;
-import static java.lang.Math.toRadians;
-
+package com.github.carlos.CarlosDevSys.CitiesApiApplication.distances.services;
 
 
 import java.util.Arrays;
 import java.util.List;
 
-import com.github.carlos.CarlosDevSys.citiesapi.cities.City;
-import com.github.carlos.CarlosDevSys.citiesapi.cities.CityRepository;
+import com.github.carlos.CarlosDevSys.CitiesApiApplication.cities.City;
+import com.github.carlos.CarlosDevSys.CitiesApiApplication.cities.CityRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.data.geo.Point;

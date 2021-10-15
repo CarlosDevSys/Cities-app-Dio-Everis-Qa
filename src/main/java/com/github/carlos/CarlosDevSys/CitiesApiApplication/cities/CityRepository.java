@@ -1,4 +1,4 @@
-package com.github.carlos.CarlosDevSys.citiesapi.cities;
+package com.github.carlos.CarlosDevSys.CitiesApiApplication.cities;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;

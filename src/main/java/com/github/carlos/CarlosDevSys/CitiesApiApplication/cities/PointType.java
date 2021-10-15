@@ -1,4 +1,4 @@
-package com.github.carlos.CarlosDevSys.citiesapi.cities;
+package com.github.carlos.CarlosDevSys.CitiesApiApplication.cities;
 
 import java.io.Serializable;
 import java.sql.PreparedStatement;

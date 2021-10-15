@@ -1,7 +1,7 @@
-package com.github.carlos.CarlosDevSys.citiesapi.states.resource;
+package com.github.carlos.CarlosDevSys.CitiesApiApplication.states.resource;
 
-import com.github.carlos.CarlosDevSys.citiesapi.states.entities.State;
-import com.github.carlos.CarlosDevSys.citiesapi.states.repository.StateRepository;
+import com.github.carlos.CarlosDevSys.CitiesApiApplication.states.entities.State;
+import com.github.carlos.CarlosDevSys.CitiesApiApplication.states.repository.StateRepository;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

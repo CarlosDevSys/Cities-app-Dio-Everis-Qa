@@ -1,7 +1,7 @@
-package com.github.carlos.CarlosDevSys.citiesapi.distances;
+package com.github.carlos.CarlosDevSys.CitiesApiApplication.distances;
 
 
-import com.github.carlos.CarlosDevSys.citiesapi.distances.services.DistanceService;
+import com.github.carlos.CarlosDevSys.CitiesApiApplication.distances.services.DistanceService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.ResponseEntity;

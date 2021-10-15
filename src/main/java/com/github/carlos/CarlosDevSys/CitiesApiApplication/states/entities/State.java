@@ -1,6 +1,6 @@
-package com.github.carlos.CarlosDevSys.citiesapi.states.entities;
+package com.github.carlos.CarlosDevSys.CitiesApiApplication.states.entities;
 
-import com.github.carlos.CarlosDevSys.citiesapi.countries.entities.Country;
+import com.github.carlos.CarlosDevSys.CitiesApiApplication.countries.entities.Country;
 import org.hibernate.annotations.Type;
 import org.hibernate.annotations.TypeDef;
 import org.hibernate.annotations.TypeDefs;

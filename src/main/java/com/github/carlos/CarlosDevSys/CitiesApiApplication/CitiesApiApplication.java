@@ -1,4 +1,4 @@
-package com.github.carlos.CarlosDevSys.citiesapi;
+package com.github.carlos.CarlosDevSys.CitiesApiApplication;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

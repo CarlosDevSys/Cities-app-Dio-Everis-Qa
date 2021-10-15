@@ -1,8 +1,8 @@
-package com.github.carlos.CarlosDevSys.citiesapi.countries;
+package com.github.carlos.CarlosDevSys.CitiesApiApplication.countries;
 
 
-import com.github.carlos.CarlosDevSys.citiesapi.countries.entities.Country;
-import com.github.carlos.CarlosDevSys.citiesapi.countries.repository.CountryRepository;
+import com.github.carlos.CarlosDevSys.CitiesApiApplication.countries.entities.Country;
+import com.github.carlos.CarlosDevSys.CitiesApiApplication.countries.repository.CountryRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

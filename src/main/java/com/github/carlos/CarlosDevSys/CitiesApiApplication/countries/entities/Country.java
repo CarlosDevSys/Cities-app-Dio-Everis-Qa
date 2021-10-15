@@ -1,4 +1,4 @@
-package com.github.carlos.CarlosDevSys.citiesapi.countries.entities;
+package com.github.carlos.CarlosDevSys.CitiesApiApplication.countries.entities;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
