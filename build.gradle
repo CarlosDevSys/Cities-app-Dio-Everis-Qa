@@ -2,6 +2,7 @@ plugins {
 	id 'org.springframework.boot' version '2.5.5'
 	id 'io.spring.dependency-management' version '1.0.11.RELEASE'
 	id 'java'
+
 }
 
 group = 'com.github.carlos.CarlosDevSys'
@@ -19,16 +20,14 @@ dependencies {
 	implementation 'org.postgresql:postgresql'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 }
-jar {
-	manifest {
-		attributes(
-
-				'Main-Class': 'com.github.carlos.CarlosDevSys.citiesapi'
-		)
-	}
-}
 
 test {
 	useJUnitPlatform()
 }
 
+
+jar {
+	manifest {
+		attributes 'Main-Class': 'com.github.carlos.CarlosDevSys.citiesapi'
+	}
+}
