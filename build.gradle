@@ -27,6 +27,6 @@ test {
 
 jar {
 	manifest {
-		attributes 'Main-Class': 'cities-api'
+		attributes 'Main-Class': 'com.github.carlos.CarlosDevSys.citiesapi'
 	}
 }
